@@ -5,19 +5,18 @@
 stunning websites. Demonstrated expertise in driving projects to success by implementing innovative design
 solutions and ensuring seamless collaboration within the front-end development team.</p>
 
-- 🔭 I’m currently working on [Craft With Comfort]
 
-- 🌱 I’m currently learning **Programming hero web development course**
+- 🌱 I’m currently learning **next js**
 
-- 👨‍💻 All of my projects are available at [https://fazle-rabby-talukder.web.app/](https://fazle-rabby-talukder.web.app/)
+- 👨‍💻 All of my projects are available at [https://fazlerabbytalukder.vercel.app/](https://fazlerabbytalukder.vercel.app/)
 
-- 📝 I regularly write articles on [https://fazle-rabby-talukder.web.app/](https://fazle-rabby-talukder.web.app/)
+- 📝 I regularly write articles on [https://fazlerabbytalukder.vercel.app/](https://fazlerabbytalukder.vercel.app/)
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, React Js etc**
+- 💬 Ask me about **JavaScript, ReactJs, NextJs etc**
 
 - 📫 How to reach me **talukderfazlerabby@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1sluK65Ki6nb6UvufF8aTvw39jNGvoymV/view?usp=sharing](https://drive.google.com/file/d/1sluK65Ki6nb6UvufF8aTvw39jNGvoymV/view?usp=sharing)
+- 📄 Resume [https://drive.google.com/file/d/1f12lZ5l5niU9JiSLUlXl3yJk4HKtwo4N/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
