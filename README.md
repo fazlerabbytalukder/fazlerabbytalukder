@@ -10,8 +10,6 @@ solutions and ensuring seamless collaboration within the front-end development t
 
 - 👨‍💻 All of my projects are available at [https://fazlerabbytalukder.vercel.app/](https://fazlerabbytalukder.vercel.app/)
 
-- 📝 I regularly write articles on [https://fazlerabbytalukder.vercel.app/](https://fazlerabbytalukder.vercel.app/)
-
 - 💬 Ask me about **JavaScript, ReactJs, NextJs etc**
 
 - 📫 How to reach me **talukderfazlerabby@gmail.com**
