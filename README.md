@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Fazle Rabby Talukder</h1>
-<h3 align="center">I am an enthusiastic and potential developer with excellent skills in the area of MERN stack development. I have explored HTML, CSS, Bootstrap, React js, Node js, MongoDB, and other technology related to web development. I have also developed some professional websites that will help me to grow as a web developer. In the near future, I would like to develop some commercial websites under your company's guidelines. I am Looking forward to working in a supportive environment where my experience and creative skills will be appreciated. If you hire me as a web Developer, I assure you I will fit into your team quickly and work as a team.</h3>
+<h1 align="center">Hi 👋, I'm Fazle Rabby</h1>
+<hr>
+<h3 align="center">Front-End Developer</h3>
+
+<p align="center">Accomplished front-end developer with over 1 year of experience leading dynamic teams in crafting visually
+stunning websites. Demonstrated expertise in driving projects to success by implementing innovative design
+solutions and ensuring seamless collaboration within the front-end development team.</p>
 
 - 🔭 I’m currently working on [Craft With Comfort]
 
