@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Fazle Rabby</h1>
-<hr>
 <h3 align="center">Front-End Developer</h3>
 
 <p align="center">Accomplished front-end developer with over 1 year of experience leading dynamic teams in crafting visually
