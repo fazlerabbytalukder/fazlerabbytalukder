@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Fazle Rabby</h1>
 <h3 align="center">Front-End Developer</h3>
 
-<p align="center">Accomplished front-end developer with over 1 year of experience leading dynamic teams in crafting visually
+<p align="center">Accomplished front-end developer with over 2 years of experience leading dynamic teams in crafting visually
 stunning websites. Demonstrated expertise in driving projects to success by implementing innovative design
-solutions and ensuring seamless collaboration within the front and back end development team.</p>
+solutions and ensuring seamless collaboration within the front and back-end development team.</p>
 
 
 - 🌱 I’m currently learning **next js**
