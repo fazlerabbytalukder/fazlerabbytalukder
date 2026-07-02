@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Fazle Rabby</h1>
 <h3 align="center">Front-End Developer</h3>
 
-<p align="center">Accomplished front-end developer with over 2 years of experience leading dynamic teams in crafting visually
-stunning websites. Demonstrated expertise in driving projects to success by implementing innovative design
-solutions and ensuring seamless collaboration within the front and back-end development team.</p>
+<p align="center">Frontend Developer with 3+ years of experience building modern web applications using React.js, Next.js, and Tailwind CSS. Built and maintained a production-grade LMS SaaS product, developed a Fintech application with real-time dashboards, and published commercial products on Codecanyon.</p>
 
 
-- 🌱 I’m currently learning **next js**
+- 🌱 I’m currently Working on **next js**
 
 - 👨‍💻 All of my projects are available at [https://fazlerabbytalukder.vercel.app/](https://fazlerabbytalukder.vercel.app/)
 
@@ -14,7 +12,7 @@ solutions and ensuring seamless collaboration within the front and back-end deve
 
 - 📫 How to reach me **talukderfazlerabby@gmail.com**
 
-- 📄 Resume [https://drive.google.com/file/d/1f12lZ5l5niU9JiSLUlXl3yJk4HKtwo4N/view?usp=sharing)
+- 📄 Resume [[https://drive.google.com/file/d/1f12lZ5l5niU9JiSLUlXl3yJk4HKtwo4N/view?usp=sharing](https://drive.google.com/file/d/12WTTEZgWct-YKkRJrY5pkapAnPExsqGo/view?usp=drive_link))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
